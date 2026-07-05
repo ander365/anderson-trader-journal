@@ -1,23 +1,11 @@
-# FundedOS Commercial Starter
+# FundedOS Pro v1.2
 
-Cloudflare Pages ready PWA.
+Cloudflare Pages ready.
 
-## Files to upload
-- index.html
-- manifest.webmanifest
-- service-worker.js
-- icon-192.png
-- icon-512.png
-
-## Current scope
-This is a commercial landing page + usable PWA demo for funded traders.
-Data is stored locally in browser localStorage.
-
-## Next commercial requirements
-- User accounts
-- Cloud database
-- Billing
-- Privacy Policy / Terms
-- Cloud sync
-- MT5 import
-- Screenshot upload
+## What's new
+- Premium SaaS landing page
+- Improved hero, CTAs and pricing
+- Login demo modal
+- Dashboard mockup
+- Existing app retained
+- PWA manifest and service worker
