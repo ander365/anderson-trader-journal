@@ -1,12 +1,13 @@
-# FundedOS v1.4 Mission
+# FundedOS v1.6 Career Mode
 
 Cloudflare Pages ready.
 
 ## New
-- Daily Mission
-- Mission Completion Score
-- Funded Score
-- Error Library
-- Risk Guardian wording
-- AI Coach Preview improved
-- CSV export includes mission and error tag
+- Career Mode
+- Career Timeline
+- Trading Health log
+- Knowledge Vault
+- Existing Mission Control retained
+- Screenshot Vault retained
+- Funded Score retained
+- AI Coach Preview retained
