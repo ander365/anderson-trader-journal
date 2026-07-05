@@ -1,13 +1,30 @@
-# FundedOS v1.6 Career Mode
+# FundedOS Commercial MVP v2
 
 Cloudflare Pages ready.
 
-## New
-- Career Mode
+## What this version is
+A commercial-quality static MVP for validating FundedOS as a SaaS.
+
+## Included
+- Professional SaaS landing page
+- Start Free demo signup
+- Login demo
+- Pricing plans
+- Stripe checkout placeholder
+- Mission Control
+- Challenge Tracker
+- Risk Guardian Checklist
+- Trading Journal
+- AI Coach Preview
+- Trader DNA
 - Career Timeline
-- Trading Health log
-- Knowledge Vault
-- Existing Mission Control retained
-- Screenshot Vault retained
-- Funded Score retained
-- AI Coach Preview retained
+- CSV export
+- PWA/offline support
+
+## Important
+This version is still local/static. To sell subscriptions seriously, the next engineering step is:
+- Supabase Auth
+- Supabase PostgreSQL database
+- Supabase Storage for screenshots
+- Stripe subscriptions
+- OpenAI-powered AI Coach
